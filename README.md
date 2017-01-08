@@ -1,3 +1,3 @@
 # hello-world
 Nothing...
-I'm new GitHub and am excited to get started programming!!
+I'm new to GitHub and am excited to get started programming!!
